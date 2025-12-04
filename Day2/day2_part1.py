@@ -1,3 +1,5 @@
+#Assumptions Used:
+#1. The number of digits in the max and min of the range differ by atmost one digit.
 
 def find_number_of_digits(max, min):
     """
